@@ -1,3 +1,6 @@
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working in Native IOS Application Development
